@@ -3,7 +3,7 @@ bin
 debug
 
 # files
-.suo
+*.suo
 
 # Windows image file caches
 Thumbs.db
